@@ -1,2 +1,2 @@
 # gym_trial
-test
+- これはiPhoneクライアントから更新
